@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 프론트엔드
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=93D8F7]
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=93D8F7))]
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
