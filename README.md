@@ -1,39 +1,39 @@
-## Hi there 👋
-
-<!--
-**704hj/704hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 기술 스택
-
-**프론트엔드**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=93D8F7)
-![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**백엔드**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge&logo=eclipse&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**프레임워크**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Spring_Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfff99,100:fae500&height=120&text=&animation=&fontColor=787878&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성실함을 기록으로 쌓아가며, 꾸준히 성장하는 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 프로젝트마다 배운 점을 정리하고 기록하여</li></li><li> 같은 문제를 더 빠르고 효율적으로 해결합니다.</li></li><li> 배움의 과정을 즐기며, 더 나은 개발을 위해 도전합니다. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <br/></div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.notion.so/HJ-1718913a4d278060a0bfc5088fef2bf0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/HJ-1718913a4d278060a0bfc5088fef2bf0"> </a>
+         <a href=mailto:0430hj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:0430hj@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hj&bg_color=180,00000000,00000000&title_color=707070&text_color=707070"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj&layout=compact&bg_color=180,00000000,00000000&title_color=707070&text_color=707070"
+           /> </div> 
+    </div>
+    
