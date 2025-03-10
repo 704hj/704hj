@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfff99,100:fae500&height=120&text=&animation=&fontColor=787878&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성실함을 기록으로 쌓아가며, 꾸준히 성장하는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 프로젝트마다 배운 점을 정리하고 기록하여</li></li><li> 같은 문제를 더 빠르고 효율적으로 해결합니다.</li></li><li> 배움의 과정을 즐기며, 더 나은 개발을 위해 도전합니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전하고 성실함을 기록으로 쌓아, 꾸준히 성장하는 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 문제를 해결한 경험을 기록하며 다시 같은 실수를 반복하지 않도록 학습하고</li></li><li> 같은 문제를 더 빠르고 효율적으로 해결합니다.</li></li><li> 배움의 과정을 즐기며, 더 나은 개발을 위해 도전합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
