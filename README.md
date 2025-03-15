@@ -26,7 +26,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d35;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/HJ-1718913a4d278060a0bfc5088fef2bf0> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/HJ-1718913a4d278060a0bfc5088fef2bf0"> </a>
          <a href=mailto:0430hj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:0430hj@gmail.com"> </a>
           </div>  <br> 
