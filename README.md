@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 14px; text-align: left; color: #282b15;"> <li> 저는 문제를 해결한 경험을 기록하며 다시 같은 실수를 반복하지 않도록 학습하고</li></li><li> 같은 문제를 더 빠르고 효율적으로 해결합니다.</li></li><li> 배움의 과정을 즐기며, 더 나은 개발을 위해 도전합니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d57;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d58;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;"> 
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
