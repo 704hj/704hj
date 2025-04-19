@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfff99,100:fae500&height=120&text=&animation=&fontColor=787878&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfff99,100:fae500&height=120&text=&animation=&fontColor=787878&fontSize=38" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d5dee4; color: #282d63;"> 도전하고 성실함을 기록으로 쌓아, 꾸준히 성장하는 개발자 </h2>  
